@@ -21,7 +21,7 @@
 
 # Technologies used (libraries & versions)
 
-JAVA / SERVLET / HTML / CSS / JAVASCRIPT / JQUERY / ORACLE
+JAVA / SERVLET / HTML / CSS / JAVASCRIPT / JQUERY / ORACLE SQL
 
 # Unique elements
 
