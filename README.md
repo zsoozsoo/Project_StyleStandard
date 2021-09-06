@@ -15,6 +15,7 @@
 
 - [소개](#소개)
   - [문서](#문서)
+- [실게 화면](#실제 화면)
 - [주요 기능](#주요기능)
 - [주요 기술 스택](#주요기술스택)
 - [개발환경](#개발환경)
@@ -31,42 +32,47 @@
 ### 문서
  - [개발일정](개발일정.png)
  - [ERD](https://www.erdcloud.com/d/YZ5cvtdMZyAeWWW9o)
- - [UI설계[(스타일스탠드_UI설계.pptx)
+ - [UI설계](스타일스탠드_UI설계.pptx)
  - [관련 PPT](YEOKKU_PPT.pptx)
 
 <br>
   
-< 메인화면 >
+## 실제 화면 
+- 메인화면
 <img width="1415" alt="스크린샷 2021-06-14 오후 9 10 00" src="https://user-images.githubusercontent.com/68534487/121895312-0ab0a980-cd5b-11eb-9973-f6a9fb2bd443.png">
 
+- 마이페이지 
+<img width="1415" alt="스크린샷 2021-06-14 오후 9 10 00" src="https://user-images.githubusercontent.com/68534487/121905046-b4e0ff00-cd64-11eb-87b0-0f7bbaf350cc.png">
 
-< 마이페이지 >
+- 주문 시 화면 
+<img width="500" alt="스크린샷 2021-06-14 오후 9 10 00" src="https://user-images.githubusercontent.com/68534487/121905530-359ffb00-cd65-11eb-8e61-67bf2132052a.png">
+<img width="500" alt="스크린샷 2021-06-14 오후 9 10 00" src="https://user-images.githubusercontent.com/68534487/121907400-fbcff400-cd66-11eb-9bb5-32a07b35884b.png">
+
 <br>
-![image](https://user-images.githubusercontent.com/68534487/121905046-b4e0ff00-cd64-11eb-87b0-0f7bbaf350cc.png)
 
-< 주문 시 화면 >
+## 주요기능
+- 스타일리스트 등록 및 고객 연결
+- 챗봇 대화
+- 상품 구매 및 대여 기능
+- 결제 기능
+- 공지사항, Q&A 게시판
+- 송장 등록 및 택배 조회 기능
+- 리뷰 남기기
+
 <br>
-![image](https://user-images.githubusercontent.com/68534487/121905530-359ffb00-cd65-11eb-8e61-67bf2132052a.png) ![image](https://user-images.githubusercontent.com/68534487/121907400-fbcff400-cd66-11eb-9bb5-32a07b35884b.png)
 
-
-# Technologies used (libraries & versions)
-
+## 주요기술스택
 JAVA / SERVLET / HTML / CSS / JAVASCRIPT / JQUERY / ORACLE SQL
 
-# Unique elements
+## 개발환경
+- __Frontend__
+  - Eclipse
 
-옷을 구매하는 것이 어려운 고객들에게 등록된 스타일리스트를 연결시켜주고, 구매뿐만 아니라 대여까지 가능한 차별화된 서비스
+- __Backend__
+  - Eclipse
+  - Project SDK: java version “1.8.0_192”
+  - WAS: Apache Tomcat/9.0.45
 
-# Problems I faced
-
-추천까지는 아니더라도 랜덤으로 고객의 장바구니에 상품이 들어갈 수 있는 기능을 만들고 싶었으나, 
-<br>제한된 기간안에 진행해야하다보니 부득이하게 그 기능은 제외
-
-# What I learned
-
-서블릿을 이용해 하나의 사이트를 구축하면서 이커머스 서비스가 진행되는 방식 및 흐름을 해당 프로젝트를 통해 배울 수 있었음
-
-# Known issues
-
-고객의 취향대로 상품을 추천해주는 서비스를 추가하고 싶다
+- __DB__
+  - Oracle 
 
