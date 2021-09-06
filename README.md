@@ -8,19 +8,16 @@
 **STYLE STANDARD**와 함께하면 스타일링 고민을 없앨 수 있습니다.
 
 <br>
-<br>
 
 ## 목차
 
-
 - [소개](#소개)
   - [문서](#문서)
-- [실게 화면](#실제 화면)
+- [실게 화면](#실제화면)
 - [주요 기능](#주요기능)
 - [주요 기술 스택](#주요기술스택)
 - [개발환경](#개발환경)
 
-<br>
 <br>
 
 ## 소개
@@ -37,7 +34,7 @@
 
 <br>
   
-## 실제 화면 
+## 실제화면 
 - 메인화면
 <img width="1415" alt="스크린샷 2021-06-14 오후 9 10 00" src="https://user-images.githubusercontent.com/68534487/121895312-0ab0a980-cd5b-11eb-9973-f6a9fb2bd443.png">
 
@@ -63,6 +60,8 @@
 
 ## 주요기술스택
 JAVA / SERVLET / HTML / CSS / JAVASCRIPT / JQUERY / ORACLE SQL
+
+<br>
 
 ## 개발환경
 - __Frontend__
