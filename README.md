@@ -30,7 +30,7 @@
  - [개발일정](개발일정.png)
  - [ERD](https://www.erdcloud.com/d/YZ5cvtdMZyAeWWW9o)
  - [UI설계](스타일스탠드_UI설계.pptx)
- - [관련 PPT](YEOKKU_PPT.pptx)
+ - [관련 PPT](스타일스탠다드.pptx)
 
 <br>
   
